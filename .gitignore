@@ -1,0 +1,10 @@
+# 环境变量文件（含 API Key），绝不提交到 git
+.env
+
+# 向量库数据（生成物，不用上传）
+chroma_data/
+chroma_langchain/
+
+# Python 缓存
+__pycache__/
+*.pyc

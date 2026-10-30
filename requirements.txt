@@ -1,0 +1,10 @@
+# RAG 知识库问答系统 依赖
+openai
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+langchain
+langchain-openai
+langchain-huggingface
+langchain-chroma
